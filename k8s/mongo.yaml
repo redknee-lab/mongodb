@@ -32,7 +32,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mongodb
+  name: jhipstermongoms-mongodb
 spec:
   ports:
     - port: 27017
